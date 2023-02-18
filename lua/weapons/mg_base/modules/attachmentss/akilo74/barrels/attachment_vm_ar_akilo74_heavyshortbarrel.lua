@@ -1,6 +1,6 @@
 ATTACHMENT.Base = "att_barrel"
 ATTACHMENT.Name = "Polymer Heavy Barrel"
-ATTACHMENT.Model = Model("models\kyo\v_att_vm_ar_akilo74_barhvyshort.mdl")
+ATTACHMENT.Model = Model("models/kyo/v_att_vm_ar_akilo74_barhvyshort.mdl")
 ATTACHMENT.Icon = Material("viper/mw/attachments/icons/akilo47/icon_attachment_smgbarrel_akilo47.vmt")
 
 local BaseClass = GetAttachmentBaseClass(ATTACHMENT.Base)

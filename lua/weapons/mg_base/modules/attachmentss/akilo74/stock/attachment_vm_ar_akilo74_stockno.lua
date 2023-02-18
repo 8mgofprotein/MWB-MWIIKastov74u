@@ -1,7 +1,7 @@
 ATTACHMENT.Base = "att_stock"
 ATTACHMENT.Name = "No Stock"
 ATTACHMENT.Icon = Material("viper/mw/attachments/icons/akilo47/icon_attachment_stockno_akilo47.vmt")
-ATTACHMENT.Model = Model("models\kyo\v_att_vm_ar_akilo74_stockno.mdl")
+ATTACHMENT.Model = Model("models/kyo/v_att_vm_ar_akilo74_stockno.mdl")
 ATTACHMENT.Bodygroups ={
     ["tag_stock"] = 1
 }

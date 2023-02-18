@@ -1,6 +1,6 @@
 ATTACHMENT.Base = "att_stock"
 ATTACHMENT.Name = "Skeleton Stock"
-ATTACHMENT.Model = Model("models\kyo\v_att_vm_ar_akilo74_stockskel.mdl")
+ATTACHMENT.Model = Model("models/kyo/v_att_vm_ar_akilo74_stockskel.mdl")
 ATTACHMENT.Icon = Material("viper/mw/attachments/icons/akilo47/icon_attachment_smgstock_unfolded_akilo47.vmt")
 ATTACHMENT.Bodygroups ={
     ["tag_stock"] = 1
